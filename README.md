@@ -1,4 +1,4 @@
-# Checkpoint 3 (CP3) — Disruptive Architectures: IoT
+# Checkpoint (CP) — Disruptive Architectures: IoT
 
 ## INFORMAÇÕES DO ALUNO (Individual ou Dupla)
 
