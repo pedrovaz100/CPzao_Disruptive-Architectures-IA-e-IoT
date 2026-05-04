@@ -1,5 +1,25 @@
 # Checkpoint 3 (CP3) — Disruptive Architectures: IoT
 
+## INFORMAÇÕES DO ALUNO (Individual ou Dupla)
+
+**Nome:** ____________________________________  
+**RM:** ______________________________________  
+
+**Nome:** ____________________________________  
+**RM:** ______________________________________  
+
+---
+
+## Regras gerais
+
+- **Prova individual.**
+- Esta avaliação deve ser desenvolvida **no simulador Wokwi**.
+- O código deve ser implementado em **Arduino/C++**.
+- O exercício deve funcionar corretamente com os componentes solicitados.
+- O uso de `delay()` **não é permitido** para controlar a lógica principal do sistema.
+- O programa deve apresentar organização, clareza e coerência com o comportamento descrito no enunciado.
+
+---
 ## Controlador IoT para Casa Inteligente
 
 Você foi contratado para desenvolver o **controlador central de uma casa inteligente (Smart Home)**.
