@@ -8,12 +8,12 @@
         {
             "name": "PlatformIO",
             "includePath": [
-                "C:/Users/labsfiap/Downloads/alimentador-pet-iot-final (1)/src",
+                "C:/Users/labsfiap/Downloads/cpp/CPzao_Disruptive-Architectures-IA-e-IoT/src",
                 "C:/Users/labsfiap/.platformio/packages/framework-arduinoespressif32/libraries/WebServer/src",
                 "C:/Users/labsfiap/.platformio/packages/framework-arduinoespressif32/libraries/FS/src",
                 "C:/Users/labsfiap/.platformio/packages/framework-arduinoespressif32/libraries/WiFi/src",
-                "C:/Users/labsfiap/Downloads/alimentador-pet-iot-final (1)/.pio/libdeps/esp32dev/ESP32Servo/src",
-                "C:/Users/labsfiap/Downloads/alimentador-pet-iot-final (1)/.pio/libdeps/esp32dev/LiquidCrystal_I2C",
+                "C:/Users/labsfiap/Downloads/cpp/CPzao_Disruptive-Architectures-IA-e-IoT/.pio/libdeps/esp32dev/ESP32Servo/src",
+                "C:/Users/labsfiap/Downloads/cpp/CPzao_Disruptive-Architectures-IA-e-IoT/.pio/libdeps/esp32dev/LiquidCrystal_I2C",
                 "C:/Users/labsfiap/.platformio/packages/framework-arduinoespressif32/libraries/Wire/src",
                 "C:/Users/labsfiap/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/newlib/platform_include",
                 "C:/Users/labsfiap/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include",
@@ -245,12 +245,12 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "C:/Users/labsfiap/Downloads/alimentador-pet-iot-final (1)/src",
+                    "C:/Users/labsfiap/Downloads/cpp/CPzao_Disruptive-Architectures-IA-e-IoT/src",
                     "C:/Users/labsfiap/.platformio/packages/framework-arduinoespressif32/libraries/WebServer/src",
                     "C:/Users/labsfiap/.platformio/packages/framework-arduinoespressif32/libraries/FS/src",
                     "C:/Users/labsfiap/.platformio/packages/framework-arduinoespressif32/libraries/WiFi/src",
-                    "C:/Users/labsfiap/Downloads/alimentador-pet-iot-final (1)/.pio/libdeps/esp32dev/ESP32Servo/src",
-                    "C:/Users/labsfiap/Downloads/alimentador-pet-iot-final (1)/.pio/libdeps/esp32dev/LiquidCrystal_I2C",
+                    "C:/Users/labsfiap/Downloads/cpp/CPzao_Disruptive-Architectures-IA-e-IoT/.pio/libdeps/esp32dev/ESP32Servo/src",
+                    "C:/Users/labsfiap/Downloads/cpp/CPzao_Disruptive-Architectures-IA-e-IoT/.pio/libdeps/esp32dev/LiquidCrystal_I2C",
                     "C:/Users/labsfiap/.platformio/packages/framework-arduinoespressif32/libraries/Wire/src",
                     "C:/Users/labsfiap/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/newlib/platform_include",
                     "C:/Users/labsfiap/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include",
